@@ -1,5 +1,5 @@
 # Excellent toolbox
-特殊说明: 此项目的工具来源于互联网 ~~(有一些是我写的)~~ 如有侵权,请联系我删除
+特殊说明: 此项目的工具来源于互联网 ~~(有一些是我写的)~~ 如有侵权,请联系删除
 
 ### DEMO [Excellent toolbox](https://zy.cn.eu.org)<br>
 
